@@ -1,0 +1,24 @@
+.head{
+    font-weight: 800;
+    text-align: center;
+    text-shadow: 2px 2px rgb(222, 194, 194);
+    
+    
+}
+.style{
+    background-color:lightblue ;
+    width: 600px;
+    border:2px double blueviolet ;
+    border-radius: 10px;
+    padding: 15px; 
+    margin: auto;
+    background-attachment: fixed;
+    
+}
+
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
